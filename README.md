@@ -1,6 +1,4 @@
-# AI Fitness Trainer Using MediaPipe: Squats Analysis
-
-## Building an AI Fitness Trainer Using MediaPipe Pose to Analyze Squats
+# AI Fitness Trainer
 
 ### Install required packages
 
